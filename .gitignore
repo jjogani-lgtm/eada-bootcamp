@@ -1,0 +1,13 @@
+# Local data and Python cache
+portal/romulus.sqlite3
+portal/romulus.sqlite3-*
+portal/__pycache__/
+portal/*.py[cod]
+.DS_Store
+
+# Unrelated course and training data
+course/
+dat/
+models/
+reports/
+scripts/
