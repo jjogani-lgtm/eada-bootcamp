@@ -1,0 +1,4 @@
+romulus.sqlite3
+romulus.sqlite3-*
+__pycache__/
+*.py[cod]
